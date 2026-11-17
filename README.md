@@ -122,7 +122,7 @@ Installing skill files in another assistant does not connect that assistant to A
 - [Artemis documentation](https://docs.artemis.solar).
 - [Privacy policy](https://artemispower.com/privacy-policy).
 - [Terms of use](https://artemispower.com/terms-of-use).
-- Support: [support@artemis.solar](mailto:support@artemis.solar).
+- Support: [support@artemispower.com](mailto:support@artemispower.com).
 
 The live setup guide still says this repository is unavailable.
 Use this README for plugin installation.
