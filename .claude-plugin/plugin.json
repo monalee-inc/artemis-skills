@@ -1,0 +1,14 @@
+{
+  "name": "artemis",
+  "version": "0.1.0",
+  "description": "Connect Claude Code to Artemis for pipeline reviews, call preparation, roof measurements, and team checks.",
+  "author": {
+    "name": "Monalee",
+    "email": "support@artemis.solar",
+    "url": "https://artemispower.com"
+  },
+  "homepage": "https://docs.artemis.solar/overview/ai-agents",
+  "repository": "https://github.com/monalee-inc/artemis-skills",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://artemispower.com/privacy-policy"
+}

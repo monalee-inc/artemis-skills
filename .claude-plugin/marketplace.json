@@ -1,0 +1,16 @@
+{
+  "name": "artemis",
+  "description": "Connect Claude Code to Artemis and use task-focused skills for projects, roofs, and team administration.",
+  "owner": {
+    "name": "Monalee",
+    "email": "support@artemis.solar",
+    "url": "https://artemispower.com"
+  },
+  "plugins": [
+    {
+      "name": "artemis",
+      "source": "./",
+      "license": "MIT"
+    }
+  ]
+}

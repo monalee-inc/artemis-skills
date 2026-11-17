@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "artemis": {
+      "type": "http",
+      "url": "https://sales-api.artemis.solar/external/v2/mcp"
+    }
+  }
+}
