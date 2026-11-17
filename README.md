@@ -145,8 +145,6 @@ claude plugin validate --strict --profile directory .
 
 Passing the first command confirms package structure, not sign-in or skill behavior.
 Directory validation is not directory approval.
-Strict directory validation reports `ICON_MISSING` because this package does not include a directory icon.
-An icon is required before directory submission, not for this public repository.
 
 ## License
 
